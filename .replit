@@ -1,0 +1,2 @@
+language = "python3"
+run = "program = int(input("Which part are you testing? Type in 1, 2, 3, 4, or 5."))"
